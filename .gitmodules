@@ -1,0 +1,3 @@
+[submodule "week_2/project/philphix"]
+	path = week_2/project/philphix
+	url = git@gitlab.com:moki.codes/cs61c-sp18-philphix.git
