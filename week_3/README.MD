@@ -2,3 +2,4 @@
 
 * [section](./section/README.MD)
 * [homework](./homework/README.MD)
+* [lab](./lab/README.MD)
