@@ -1,3 +1,6 @@
 [submodule "week_2/project/philphix"]
 	path = week_2/project/philphix
 	url = git@gitlab.com:moki.codes/cs61c-sp18-philphix.git
+[submodule "week_3/project/riscv-is-emu"]
+	path = week_3/project/riscv-is-emu
+	url = git@gitlab.com:moki.codes/cs61c-sp18-riscv-is-emu.git
