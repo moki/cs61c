@@ -19,5 +19,5 @@ Course [page](https://inst.eecs.berkeley.edu/~cs61c/sp18/), since homeworks are 
 * Week 11
 * [Week 12](week_12/README.MD)
 * [Week 13](week_13/README.MD)
-* Week 14
+* [Week 14](week_14/README.MD)
 * Week 15
