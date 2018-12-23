@@ -4,3 +4,6 @@
 [submodule "week_3/project/riscv-is-emu"]
 	path = week_3/project/riscv-is-emu
 	url = git@gitlab.com:moki.codes/cs61c-sp18-riscv-is-emu.git
+[submodule "week_15/project/cs61c-sp18-ml-classifier-cache"]
+	path = week_15/project/cs61c-sp18-ml-classifier-cache
+	url = git@gitlab.com:moki.codes/cs61c-sp18-ml-classifier-cache.git
